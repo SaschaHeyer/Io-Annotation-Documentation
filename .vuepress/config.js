@@ -16,12 +16,22 @@ module.exports = {
         {
           title: 'Documentation',
           collapsable: false,
-          children: ['documentation/getting-started']
+          children: [ 
+          'documentation/datasets', 
+          'documentation/labels', 
+          'documentation/annotate',
+          'documentation/dictionaries',
+          'documentation/export'
+        ]
         },
         {
           title: 'API',
           collapsable: false,
-          children: ['api/authentication', 'api/upload']
+          children: [
+          'api/authentication', 
+          'api/upload',
+          'api/export'
+        ]
         }
       ]
     }
