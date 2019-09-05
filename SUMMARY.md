@@ -1,10 +1,13 @@
 # Table of contents
 
 * [Io Annotator](README.md)
-* [documentation](documentation/README.md)
-  * [Getting started](documentation/getting-started.md)
-* [api](api/README.md)
+* [Documentation](documentation/README.md)
+  * [Dataset](documentation/dataset.md)
+  * [Label](documentation/label.md)
+  * [Import](documentation/import.md)
+  * [Export](documentation/export.md)
+* [API](api/README.md)
   * [Authentication](api/authentication.md)
-  * [Upload](api/upload.md)
-  * [integrate](api/integrate.md)
+  * [Import](api/upload.md)
+  * [Export](api/integrate.md)
 
