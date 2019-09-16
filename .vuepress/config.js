@@ -1,9 +1,11 @@
 module.exports = {
   title: 'Io annotator',
+  base: '/Io-Annotation-Documentation/',
   //base: '/documentation/',
   themeConfig: {
     nav: [{ text: 'Home', link: '/' }, { text: 'Io annotator', link: 'http://annotator.ml' }],
     repo: 'SaschaHeyer/Io-Annotation-Documentation',
+    
     repoLabel: 'Contribute on Github',
     docsRepo: 'SaschaHeyer/Io-Annotation-Documentation',
     // defaults to false, set to true to enable
