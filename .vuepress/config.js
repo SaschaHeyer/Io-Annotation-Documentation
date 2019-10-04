@@ -3,7 +3,7 @@ module.exports = {
   base: '/Io-Annotation-Documentation/',
   //base: '/documentation/',
   themeConfig: {
-    nav: [{ text: 'Home', link: '/' }, { text: 'Io annotator', link: 'http://annotator.ml' }],
+    nav: [{ text: 'Home', link: '/' }, { text: 'Io annotator', link: 'http://ioannotator.com' }],
     repo: 'SaschaHeyer/Io-Annotation-Documentation',
     
     repoLabel: 'Contribute on Github',
