@@ -14,10 +14,10 @@ POST /api/import
 
 ### Request body
 
-| Name    |  Type  | Description                                   |
-| :------ | :----: | :-------------------------------------------- |
-| dataset | string | The dataset which the text should be uploaded. |
-| text    | string | The text later used for annotation. |
+| Name    |  Type  | Description                                                                                      |
+| :------ | :----: | :----------------------------------------------------------------------------------------------- |
+| dataset | string | The dataset which the text should be uploaded. <br/>_ID can be found on the dataset detail page_ |
+| text    | string | The text later used for annotation.                                                              |
 
 ```json
 {

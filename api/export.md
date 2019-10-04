@@ -12,9 +12,9 @@ GET /api/export
 
 ### Query Parameters
 
-| Name    |  Type  | Description                                       | 
-| :------ | :----: | :------------------------------------------------ | 
-| dataset | string | The dataset which contains your annotated data.    |
+| Name    |  Type  | Description                                                                                       |
+| :------ | :----: | :------------------------------------------------------------------------------------------------ |
+| dataset | string | The dataset which contains your annotated data. <br/>_ID can be found on the dataset detail page_ |
 
 ### Response body (Named Entity Recognition)
 
