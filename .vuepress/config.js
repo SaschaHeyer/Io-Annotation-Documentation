@@ -9,9 +9,9 @@ module.exports = {
     repoLabel: 'Contribute on Github',
     docsRepo: 'SaschaHeyer/Io-Annotation-Documentation',
     // defaults to false, set to true to enable
-    editLinks: true,
+    //editLinks: true,
     // custom text for edit link. Defaults to "Edit this page"
-    editLinkText: 'Help us improve this page!',
+    //editLinkText: 'Help us improve this page!',
     dest: '../docs',
     sidebar: {
       '/': [
@@ -21,18 +21,29 @@ module.exports = {
           children: [ 
           'documentation/datasets', 
           'documentation/labels', 
+          'documentation/import',
           'documentation/annotate',
-          'documentation/dictionaries',
-          'documentation/export'
+          'documentation/export',
+          'documentation/review'
         ]
         },
         {
           title: 'API',
           collapsable: false,
           children: [
+          'api/introduction',
           'api/authentication', 
-          'api/upload',
-          'api/export'
+          'api/import',
+          'api/export',
+          'api/limits'
+        ]
+        },
+        {
+          title: 'Account',
+          collapsable: false,
+          children: [
+          'account/billing', 
+          'account/support'
         ]
         }
       ]

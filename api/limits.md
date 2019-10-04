@@ -1,0 +1,2 @@
+# Limits
+Our API endpoint is rate limited to ensure a healtly and responsible API. In case you reach this limit our API respons with `add error code`. The current limit of our API is `100/request/second`. 

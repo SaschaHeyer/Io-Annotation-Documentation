@@ -1,13 +1,31 @@
 # Datasets
 
 
-A dataset is the parent of your data and contains everything which is related to your data. If you have new data add them to your already existing dataset and continue annotating.
+A dataset is the parent of your data and contains everything which is related to your data. I
 
-Lets start by navigating to [/datasets](https://io-annotator.appspot.com/datasets). If you are new your dataset list is empty. Create a new dataset by navigating to [/datasets/create](https://io-annotator.appspot.com/datasets/create)
+The dataset overview shows all of your datasets ordered by creation date. If you are new your dataset list is empty.
 
-Currently we support two types of datasets:
+![datasets](../images/dataset-datasets.png)
 
-* Text Classifications \(Annotate the complete text with one or multiple labels\)
-* Named Entity Recognition
+
 
 The annotation type depends which sort of machine learning problem you want to solve.
+
+## Create dataset
+A dataset consists of a name, type and optional a description.
+We currently support two types of datasets `Text Classifications` and `Named Entity Recognition`
+
+## Dataset details
+Each dataset has a detail page where you can find all features related to a dataset: 
+
+* [Manage label](./labels.html)
+* [Import data](./import.html)
+* [Start annotating](./annotate.html)
+* [Review annotations](./review.html)
+* [Export data](./export.html)
+
+
+## Delete dataset
+If you want to delete a dataset please keep in mind this process cannot be reverted, your data will be lost. A dataset can be deleted by navigating to the detail page and click on delete, confirm with the word `DELETE`. The dataset is then scheduled for deletion and will be deleted in the next 15 minutes. 
+
+
