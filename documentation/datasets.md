@@ -23,6 +23,7 @@ Each dataset has a detail page where you can find all features related to a data
 * [Start annotating](./annotate.html)
 * [Review annotations](./review.html)
 * [Export data](./export.html)
+* [Metrics](./metrics.html)
 
 
 ## Delete dataset

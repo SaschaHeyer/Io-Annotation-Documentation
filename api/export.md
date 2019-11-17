@@ -73,3 +73,21 @@ GET /api/export
   ]
 }
 ```
+
+
+### Response body (Sequence to Sequence)
+
+```json
+{
+    "results": 1,
+    "annotations": [
+        {
+            "sequences": [
+                "Loud and filthy hotel, would not recommend it.",
+                "Loud neighbours and need some cleaning."
+            ],
+            "text": "Filthy, outdated, noisy neighbours, but this was not the worst. We were nearly eaten by the bed bugs, more agressive than Denali bears. I would not reccomend this hole even to my worst enemy. Next day we needed medical help."
+        }
+    ]
+}
+```

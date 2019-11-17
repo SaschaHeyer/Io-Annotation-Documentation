@@ -11,9 +11,12 @@ We optimized our annotator to reduce distraction by keeping the interface to a m
 * Labels can be selected by using the corresponding shortcuts in our example `r` for room. You can define the shortcuts on your own.
 
 
-## Classification Annotator
+## Annotator
+### Classification Annotator
 
 The Classification Annotator is used to annotate the complete text with one or multiple labels. 
 
-## Named Entity Recognition Annotator
+### Named Entity Recognition Annotator
 The Named Entity Recognition Annotator is used to annotate one or multiple entity within the text. 
+
+### Sequence to Sequence Annotator
