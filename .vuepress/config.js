@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Io annotator',
-  base: '/Io-Annotation-Documentation/',
+  //base: '/Io-Annotation-Documentation/',
   //base: '/documentation/',
   themeConfig: {
     nav: [{ text: 'Home', link: '/' }, { text: 'Io annotator', link: 'http://ioannotator.com' }],
