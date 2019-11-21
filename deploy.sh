@@ -10,7 +10,7 @@ npm run docs:build
 cd .vuepress/dist
 
 # if you are deploying to a custom domain
-#echo 'docs.annotator.ml' > CNAME
+echo 'docs.ioannotator.com' > CNAME
 
 git init
 git add -A
