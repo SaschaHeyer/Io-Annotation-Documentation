@@ -27,7 +27,8 @@ module.exports = {
           'documentation/export',
           'documentation/review',
           'documentation/metrics',
-          'documentation/team'
+          'documentation/team',
+          'documentation/webhooks'
         ]
         },
         {
