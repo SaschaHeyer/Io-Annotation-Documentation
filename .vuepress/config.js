@@ -21,7 +21,6 @@ module.exports = {
           children: [ 
           'documentation/datasets', 
           'documentation/labels', 
-          'documentation/dictionaries',
           'documentation/import',
           'documentation/annotate',
           'documentation/export',

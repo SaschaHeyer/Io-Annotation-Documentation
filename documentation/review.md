@@ -1,16 +1,18 @@
 # Review
 
-Review can increase the quality of your dataset. This step is optional and depends on your ressources and the type of your data. 
+A review can increase the quality of your dataset. This step is optional and depends on your resources and the type of data. 
 
 ![review overview](../images/review-overview.png)
 
 ## Review filtering
-The review interfaces provides several actions that can be used 
-* Filter based on `startdate` (show  all annotations from this start date to today).
-* Filter based on `enddate` (show all annotations from the beginning of time till this end date)
-* Filter based on `startdate` and `enddate` (show me all annotations between start and end)
+The review interfaces provide several actions that can be used 
+* Filter based on `start date` (show all annotations from this start date to today).
+* Filter based on `end date` (show all annotations from the beginning of time till this end date)
+* Filter based on `start date` and `end date` (show me all annotations between start and end)
 
-> Please keep in mind the filtering is based on UTC time.
+::: tip 
+Please keep in mind the filtering is based on UTC.
+:::
 
 ## Review actions
 

@@ -1,15 +1,13 @@
 # Datasets
 
 
-A dataset is the parent of your data and contains everything which is related to your data. I
+A dataset is the parent of your data and contains everything related to your data. I
 
 The dataset overview shows all of your datasets ordered by creation date. If you are new your dataset list is empty.
 
 ![datasets](../images/dataset-datasets.png)
 
-
-
-The annotation type depends which sort of machine learning problem you want to solve.
+The annotation type depends on which sort of machine learning problem you want to solve.
 
 ## Create dataset
 A dataset consists of a name, type and optional a description.
