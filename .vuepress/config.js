@@ -25,6 +25,7 @@ module.exports = {
           'documentation/annotate',
           'documentation/export',
           'documentation/review',
+          'documentation/dictionaries',
           'documentation/metrics',
           'documentation/team',
           'documentation/webhooks'
