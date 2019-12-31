@@ -16,8 +16,11 @@ We optimized our annotator to reduce distraction by keeping the interface to a m
 
 The Classification Annotator is used to annotate the complete text with one or multiple labels. 
 
-### Named Entity Recognition Annotator
+### Entity Annotator
 The Named Entity Recognition Annotator is used to annotate one or multiple entities within the text. 
 
 ### Sequence to Sequence Annotator
 Optimized for sequence to sequence models or similar uses cases. Upload a text and add multiple variants for it
+
+### Sentiment Annotator
+Sentences are annotated as positive, negative, or neutral when training a machine learning model to analyze sentiments.

@@ -91,3 +91,17 @@ GET /api/export
     ]
 }
 ```
+
+### Response body (Sentiment)
+
+```json
+{
+    "results": 1,
+    "annotations": [
+        {
+            "sentiment": 0,
+            "text": "Filthy, outdated, noisy neighbours, but this was not the worst. We were nearly eaten by the bed bugs, more agressive than Denali bears. I would not reccomend this hole even to my worst enemy. Next day we needed medical help."
+        }
+    ]
+}
+```
