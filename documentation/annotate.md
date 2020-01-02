@@ -24,3 +24,7 @@ Optimized for sequence to sequence models or similar uses cases. Upload a text a
 
 ### Sentiment Annotator
 Sentences are annotated as positive, negative, or neutral when training a machine learning model to analyze sentiments.
+
+::: tip 
+Use shortcuts to speedup your annotations. For positive use `arrow up`, negative `arrow down` and neutral `arrow right`.
+:::

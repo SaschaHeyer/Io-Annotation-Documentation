@@ -4,7 +4,11 @@ Supported for Named Entity Recognition
 ::: 
 
 Dictionaries can be used to speedup your annotators by pre annotating words. 
-For example you might want to annotate street names, and have a already existing list of names. 
+For example you might want to annotate street names, and have a already existing list of names.
+
+* Dictionary entries are case sensitive.
+* We automatically remove duplicated entries. 
+* Dictionary entries for each label should be unique.
 
 
 ::: warning
